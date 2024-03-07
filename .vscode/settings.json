@@ -1,0 +1,5 @@
+{
+    "files.exclude": {
+        "npx create-next-app@latest": true
+    }
+}
